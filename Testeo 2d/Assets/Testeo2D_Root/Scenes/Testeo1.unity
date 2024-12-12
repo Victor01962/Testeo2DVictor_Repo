@@ -7895,6 +7895,10 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 6200000, guid: 22f3508c5ea4024499d0d672e214c832, type: 2}
+    - target: {fileID: 3479511957188627348, guid: fcda018b6ef6dd84394270934a360de6, type: 3}
+      propertyPath: isGrounded
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4776362684705918962, guid: fcda018b6ef6dd84394270934a360de6, type: 3}
       propertyPath: m_ActionEvents.Array.size
       value: 3
