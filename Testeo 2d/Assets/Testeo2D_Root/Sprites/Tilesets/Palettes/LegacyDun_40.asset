@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: LegacyDun_40
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1965530485, guid: 2a6eb9cf4e9df89438bc95cc29d36888, type: 3}
+  m_Sprite: {fileID: 1172300902, guid: e347a6acf0f2b3b4cb8c58c9e8519793, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
